@@ -17,3 +17,18 @@ body
 {
     font-size: 20px;
 }
+#cabecera
+{
+background: #33a;
+box-shadow: opx 7px 20px 0px rgba(0,0,0,0,5);
+color: white;
+font-weight: bold;
+margin: 0;
+padding: o 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.0em;
+}
